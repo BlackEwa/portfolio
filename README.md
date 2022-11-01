@@ -1,19 +1,10 @@
 ## Welcome! 👋
 
-To do this challenge, you need a basic understanding of HTML, CSS and Bootstrap.
+This project was my final project for my first tech training under Hertechtrail.
 
-## The challenge
-
-Your challenge is to build on this portolio template and get it looking as you desire.
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
-
-## Your users should be able to:
-
-View the optimal layout for the site depending on their device's screen size
-See hover states for all interactive elements on the page
-Where to find everything
-
-You will find all the required assets in the /images folder. The assets are already optimized.
+## OVERVIEW
+The project was built with html,css and javascript.
+Check out the project live, recreate if you would love to give yourself a little challenge (for beginners).
 
 ## Building your project
 
